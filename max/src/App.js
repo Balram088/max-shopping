@@ -1,9 +1,10 @@
 import './App.css';
+import MainRoutes from './component/Routes/MainRoutes';
 
 function App() {
   return (
     <div className="App">
-        Max
+       <MainRoutes/>
     </div>
   );
 }
