@@ -8,12 +8,12 @@ import { Home } from "../Pages/Home";
 // import Women from "../components/ProductPage/Women/Women";
 // import { Basket } from "../components/Basket/Basket";
 // import Checkout from "../components/Checkout/Checkout";
-
+import {Box} from '@chakra-ui/react';
 
 const MainRoutes = () => {
   return (
     <div>
-      <Navbar />
+      <Box><Navbar /></Box>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
