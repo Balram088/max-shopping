@@ -10,7 +10,8 @@ font-size:14px;
 padding:5px;
 color:white;
 margin:auto;
-position:fixed;
+position: fixed;
+z-index: 12;
 background-color:black;
 
 

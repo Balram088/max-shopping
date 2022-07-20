@@ -6,13 +6,13 @@ export const Wrap = styled.div`
   padding: 0;
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
+  
 }
 nav{
   position: fixed;
-  z-index: 99;
+  z-index: 12;
   width: 100%;
   margin-top:2.8%;
-  
   background: #f7f8f7;
 }
 nav .wrapper{

@@ -6,6 +6,7 @@ import { Wrapper } from './Style/NavTopCss';
 
 
 
+
 export const NavbarTop = () => {
   // const { token } = useContext(AuthContext);
   // use token to chnage the text from Login to Logout once logged in successfully
@@ -13,7 +14,9 @@ export const NavbarTop = () => {
   return (
     <>
        {/* keep all the NavLinks here */}
-     <Wrapper>
+       <Wrapper>
+     
+     
      <div class="left">
             <div> <LocalShippingIcon/>  <Link to="/free-shipping"> Free Shipping</Link>  </div>
             <div> <StorefrontOutlinedIcon/>  <Link to="/return-to-store">Return To Store </Link>  </div>
@@ -26,7 +29,6 @@ export const NavbarTop = () => {
             <div>  <Link to="/help">Help</Link>  </div>
      </div>
 </Wrapper>
-    
     </>
 
   )
