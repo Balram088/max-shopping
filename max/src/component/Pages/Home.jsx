@@ -9,9 +9,6 @@ const Banner = style.div`
   text-align: center;
   padding-top: 20px;
   color: #ffff;
-  
- 
- 
 `;
 
 export const Home = () => {
@@ -47,7 +44,7 @@ export const Home = () => {
 
         <div>
           <div>
-            <p style={{ textAlign: "left", fontSize: "40px", margin: "40px" }}>
+            <p style={{ textAlign: "left", fontSize: "60px", margin: "60px" }}>
               Style Spotlight
             </p>
           </div>
@@ -62,7 +59,7 @@ export const Home = () => {
 
         <div>
           <div>
-            <p style={{ textAlign: "left", fontSize: "40px", margin: "40px" }}>
+            <p style={{ textAlign: "left", fontSize: "60px", margin: "60px" }}>
               Customer Favorite!
             </p>
           </div>
@@ -77,7 +74,7 @@ export const Home = () => {
 
         <div>
           <div>
-            <p style={{ textAlign: "left", fontSize: "40px", margin: "40px" }}>
+            <p style={{ textAlign: "left", fontSize: "60px", margin: "60px" }}>
               Trends
             </p>
           </div>
@@ -102,7 +99,7 @@ export const Home = () => {
 
         <div>
           <div>
-            <p style={{ textAlign: "left", fontSize: "40px", margin: "40px" }}>
+            <p style={{ textAlign: "left", fontSize: "60px", margin: "60px" }}>
               
               Connect With Us
             </p>
@@ -117,7 +114,7 @@ export const Home = () => {
         </div>
         <div>
           <div>
-            <p style={{ textAlign: "left", fontSize: "40px", margin: "40px" }}>
+            <p style={{ textAlign: "left", fontSize: "60px", margin: "60px" }}>
              
             Gifting Zone
             </p>
