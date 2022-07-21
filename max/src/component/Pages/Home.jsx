@@ -3,7 +3,6 @@ import style from "styled-components";
 
 import { Box, Center, Spacer, Text } from "@chakra-ui/react";
 
-import { Image, Stack } from "@chakra-ui/react";
 import ImageSlider from "../Slider/ImageSlider";
 import { SlideData } from "../Data/SlideData";
 import { flexData } from "../Data/HomeData";
