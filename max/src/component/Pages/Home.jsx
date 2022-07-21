@@ -40,6 +40,7 @@ export const Home = () => {
               ₹499.
             </p>
           </Banner>
+
           <Center w="100%" color="white">
             <ImageSlider slides={SlideData} />
           </Center>
