@@ -10,6 +10,7 @@ import { Home } from "../Pages/Home";
 // import Checkout from "../components/Checkout/Checkout";
 import {Box} from '@chakra-ui/react';
 
+
 const MainRoutes = () => {
   return (
     <div>
