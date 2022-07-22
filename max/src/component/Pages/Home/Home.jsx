@@ -1,21 +1,10 @@
 import React from "react";
-import style from "styled-components";
 import { Box, Center, Spacer, Text } from "@chakra-ui/react";
-
+import {Body,Banner} from './homeStyle';
 import ImageSlider from "./Slider/ImageSlider";
 import { SlideData } from "./SlideData";
 import { flexData } from "./HomeData";
 
-const Banner = style.div`
-  background-color: #303ab2;
-  height: 50px;
-  text-align: center;
-  padding-top: 20px;
-  color: #ffff;
-`;
-const Body = style.div`
-margin:0px 100px 0px 100px;
-`;
 
 export const Home = () => {
   return (
