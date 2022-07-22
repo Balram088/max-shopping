@@ -4,11 +4,11 @@ import { Routes, Route } from "react-router-dom";
 import Navbar from "../Navs/Navbar";
 import About from "../Pages/About";
 import { Home } from "../Pages/Home/Home";
-// import Men from "../components/ProductPage/Men/Men";
-// import Women from "../components/ProductPage/Women/Women";
 // import { Basket } from "../components/Basket/Basket";
 // import Checkout from "../components/Checkout/Checkout";
 import {Box} from '@chakra-ui/react';
+import Men from "../Pages/Products/Men";
+import Women from "../Pages/Products/Women";
 
 
 const MainRoutes = () => {
@@ -18,9 +18,9 @@ const MainRoutes = () => {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
-        {/* <Route path="/men" element={<Men />} />
+        <Route path="/men" element={<Men />} />
         <Route path="/women" element={<Women />} />
-        <Route path="/basket" element={<Basket />} />
+     {/*    <Route path="/basket" element={<Basket />} />
         <Route path="/checkout" element={<Checkout />} /> */}
       </Routes>
       {/* <Footer /> */}
