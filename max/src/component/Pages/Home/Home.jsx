@@ -2,9 +2,9 @@ import React from "react";
 import style from "styled-components";
 import { Box, Center, Spacer, Text } from "@chakra-ui/react";
 
-import ImageSlider from "../Slider/ImageSlider";
-import { SlideData } from "../Data/SlideData";
-import { flexData } from "../Data/HomeData";
+import ImageSlider from "./Slider/ImageSlider";
+import { SlideData } from "./SlideData";
+import { flexData } from "./HomeData";
 
 const Banner = style.div`
   background-color: #303ab2;
