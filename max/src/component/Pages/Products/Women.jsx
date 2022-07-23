@@ -54,7 +54,7 @@ const Women = () => {
               <Text  fontFamily="ProximaNova-Regular">
                 {e.rating}
               </Text>
-              <Button colorScheme="blue" w="100%">
+              <Button colorScheme='red' w="100%">
                 Add To Basket
               </Button>
             </Box>
