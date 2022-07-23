@@ -4,7 +4,11 @@ import SearchOutlinedIcon from '@mui/icons-material/SearchOutlined';
 import LocalMallRoundedIcon from '@mui/icons-material/LocalMallRounded';
 import { Wrap } from './Style/NavSecondCss';
 
-
+const navData=[
+  {
+    
+  }
+]
 
 export const NavbarSecond = () => {
   // const { token } = useContext(AuthContext);
@@ -29,11 +33,11 @@ export const NavbarSecond = () => {
               <div class="row">
                 <header>Verieties of Women Dresses</header>
                 <ul class="mega-links">
-                  <li><Link class="desktop-item" to="/tops">Tops</Link></li>
-                  <li><Link class="desktop-item" to="/bottoms">Bottoms</Link></li>
-                  <li><Link class="desktop-item" to="/indian-wear">Indian Wear</Link></li>
-                  <li><Link class="desktop-item" to="/accessories">Accessories</Link></li>
-                  <li><Link class="desktop-item" to="/winterwear">Winterwear</Link></li>
+                  <li><Link class="desktop-item" to="/women">Tops</Link></li>
+                  <li><Link class="desktop-item" to="/women">Bottoms</Link></li>
+                  <li><Link class="desktop-item" to="/women">Indian Wear</Link></li>
+                  <li><Link class="desktop-item" to="/women">Accessories</Link></li>
+                  <li><Link class="desktop-item" to="/women">Winterwear</Link></li>
                   {/* <li><Link class="desktop-item" to="/more">More</Link></li> */}
 
                 </ul>
@@ -61,12 +65,12 @@ export const NavbarSecond = () => {
               <div class="row">
                 <header>Verieties of Men Dresses</header>
                 <ul class="mega-links">
-                  <li><Link class="desktop-item" to="/shirt">Shirts</Link></li>
-                  <li><Link class="desktop-item" to="/pent">Pents</Link></li>
-                  <li><Link class="desktop-item" to="/indian-wear">Indian Wear</Link></li>
-                  <li><Link class="desktop-item" to="/accessories">Accessories</Link></li>
-                  <li><Link class="desktop-item" to="/winterwear">Winterwear</Link></li>
-                  <li><Link class="desktop-item" to="/more">More</Link></li>
+                  <li><Link class="desktop-item" to="/men">Shirts</Link></li>
+                  <li><Link class="desktop-item" to="/men">Pents</Link></li>
+                  <li><Link class="desktop-item" to="/men">Indian Wear</Link></li>
+                  <li><Link class="desktop-item" to="/men">Accessories</Link></li>
+                  <li><Link class="desktop-item" to="/men">Winterwear</Link></li>
+                  <li><Link class="desktop-item" to="/men">More</Link></li>
 
                 </ul>
               </div>
@@ -91,12 +95,12 @@ export const NavbarSecond = () => {
               <div class="row">
                 <header>Verieties of Girls Dresses</header>
                 <ul class="mega-links">
-                  <li><Link class="desktop-item" to="/tops">Tops</Link></li>
-                  <li><Link class="desktop-item" to="/bottoms">Bottoms</Link></li>
-                  <li><Link class="desktop-item" to="/indian-wear">Indian Wear</Link></li>
-                  <li><Link class="desktop-item" to="/accessories">Accessories</Link></li>
-                  <li><Link class="desktop-item" to="/winterwear">Winterwear</Link></li>
-                  <li><Link class="desktop-item" to="/more">More</Link></li>
+                  <li><Link class="desktop-item" to="/girls">Tops</Link></li>
+                  <li><Link class="desktop-item" to="/girls">Bottoms</Link></li>
+                  <li><Link class="desktop-item" to="/girls">Indian Wear</Link></li>
+                  <li><Link class="desktop-item" to="/girls">Accessories</Link></li>
+                  <li><Link class="desktop-item" to="/girls">Winterwear</Link></li>
+                  <li><Link class="desktop-item" to="/girls">More</Link></li>
 
                 </ul>
               </div>
@@ -122,12 +126,12 @@ export const NavbarSecond = () => {
               <div class="row">
                 <header>Verieties of Boys Dresses</header>
                 <ul class="mega-links">
-                  <li><Link class="desktop-item" to="/shirt">Shirts</Link></li>
-                  <li><Link class="desktop-item" to="/pent">Pents</Link></li>
-                  <li><Link class="desktop-item" to="/indian-wear">Indian Wear</Link></li>
-                  <li><Link class="desktop-item" to="/accessories">Accessories</Link></li>
-                  <li><Link class="desktop-item" to="/winterwear">Winterwear</Link></li>
-                  <li><Link class="desktop-item" to="/more">More</Link></li>
+                  <li><Link class="desktop-item" to="/boys">Shirts</Link></li>
+                  <li><Link class="desktop-item" to="/boys">Pents</Link></li>
+                  <li><Link class="desktop-item" to="/boys">Indian Wear</Link></li>
+                  <li><Link class="desktop-item" to="/boys">Accessories</Link></li>
+                  <li><Link class="desktop-item" to="/boys">Winterwear</Link></li>
+                  <li><Link class="desktop-item" to="/boys">More</Link></li>
 
                 </ul>
               </div>
