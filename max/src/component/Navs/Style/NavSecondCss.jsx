@@ -44,7 +44,7 @@ nav .wrapper{
   color:black;
   text-decoration: none;
   font-size: 14px;
-  font-weight: 500;
+  font-weight: 600;
   padding: 20px 20px;
   border-radius: 5px;
   transition: all 0.3s ease;

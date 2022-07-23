@@ -11,6 +11,7 @@ import Men from "../Pages/Products/Men";
 import Women from "../Pages/Products/Women";
 import Boys from "../Pages/Products/Boys";
 import Girls from "../Pages/Products/Girls";
+import SingalProduct from "../Pages/Products/SingalProduct";
 
 
 const MainRoutes = () => {
@@ -24,6 +25,7 @@ const MainRoutes = () => {
         <Route path="/women" element={<Women />} />
         <Route path="/boys" element={<Boys />} />
         <Route path="/girls" element={<Girls/>} />
+        <Route path="boys/:id" element={<SingalProduct/> }/>
 
      {/*    <Route path="/basket" element={<Basket />} />
         <Route path="/checkout" element={<Checkout />} /> */}
