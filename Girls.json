@@ -1,0 +1,360 @@
+[  {
+    "id":0,
+    "image_url":"https://lmsin.net/cdn-cgi/image/h=1125,w=1125,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/max/1000011273514-Multicolour-M-1000011273514-18042022_01-2100.jpg",
+    "name": "MAX Embroidered Straight Top",
+    "price": 1549,
+    "color":"Red",
+    "rating":"★★★",
+    "size":"L",
+    "strikedoffprice": 1799,
+    "category":"Girls",
+    "brand":"GLOBAL DESI"
+  },
+
+  {
+    "id":1,
+    "image_url":" https://lmsin.net/cdn-cgi/image/h=1125,w=1125,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/max/1000011199028-Beige-BEIGE-1000011199028-18042022_01-2100.jpg",
+    "name": "MAX Textured Straight Top With Printed",
+    "price": 1249,
+    "color":"Blue",
+    "rating":"★★★★★",
+    "size":"M",
+    "strikedoffprice": 1749,
+    "category":"Girls",
+    "brand":"RAW MANGO"
+  },
+
+  {
+    "id":2,
+    "image_url":"https://lmsin.net/cdn-cgi/image/h=1125,w=1125,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/max/1000011198986-Beige-BEIGE-1000011198986-28042022_01-2100.jpg ",
+    "name": "MAX Textured Black Straight Top",
+    "price": 699,
+    "color":"White",
+    "rating":"★★",
+    "size":"XS",
+    "strikedoffprice": 1245,
+    "category":"Girls",
+    "brand":"MAANYAVAR"
+  },
+  
+  {
+    "id":3,
+    "image_url":"https://lmsin.net/cdn-cgi/image/h=1125,w=1125,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/max/1000011199000-Beige-BEIGE-1000011199000-07042022_01-2100.jpg ",
+    "name": "MAX Printed 2-Pc Layered Asymmetric Top",
+    "price": 1599,
+    "color":"Pink",
+    "rating":"★★★★★",
+    "size":"L",
+    "strikedoffprice": 1299,
+    "category":"Girls",
+    "brand":"RAW MANGO"    
+  },
+  
+  {
+    "id":4,
+    "image_url":"https://lmsin.net/cdn-cgi/image/h=1125,w=1125,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/max/1000011199000-Beige-BEIGE-1000011199000-07042022_01-2100.jpg ",
+    "name": "MAX Embroidered Blue Straight Top",
+    "price": 599,
+    "color":"Black",
+    "rating":"★★★★",
+    "size":"M",
+    "strikedoffprice": 1299,
+    "category":"Girls",
+    "brand":"W FOR Girls"
+  },
+  
+  {
+    "id":5,
+    "image_url":"https://lmsin.net/cdn-cgi/image/h=1125,w=1125,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/max/1000011199014-Purple-LAVENDER-1000011199014-28042022_04-2100.jpg ",
+    "name": "MAX Checked Band Collar Straight Top",
+    "price": 1399,
+    "color":"Black",
+    "rating":"★★",
+    "size":"XXL",
+    "strikedoffprice": 2799,
+    "category":"Girls",
+    "brand":"MAANYAVAR"    
+  },
+  
+  {
+    "id":6,
+    "image_url":" https://lmsin.net/cdn-cgi/image/h=1125,w=1125,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/max/1000011199014-Purple-LAVENDER-1000011199014-28042022_04-2100.jpg",
+    "name": "MAX Printed Band Collar Straight Top",
+    "price": 1099,
+    "color":"Blue",
+    "rating":"★★★★★",
+    "size":"XXL",
+    "strikedoffprice": 1249,
+    "category":"Girls",
+    "brand":"GLOBAL DESI"    
+  },
+  
+  {
+    "id":7,
+    "image_url":" https://lmsin.net/cdn-cgi/image/h=1125,w=1125,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/max/1000011199007-Green-LIGHTGREEN-1000011199007-18042022_01-2100.jpg",
+    "name": "MAX Embroidered Straight Top",
+    "price": 699,
+    "color":"Pink",
+    "rating":"★★★",
+    "size":"M",
+    "strikedoffprice": 1489,
+    "category":"Girls",
+    "brand":"W FOR Girls"
+  },
+  
+  {
+    "id":8,
+    "image_url":" https://lmsin.net/cdn-cgi/image/h=1125,w=1125,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/max/1000011198951-Pink-ROSEPINK-1000011198951-18042022_01-2100.jpg",
+    "name": "MAX Printed Straight Top fully Printed  ",
+    "price": 699,
+    "color":"White",
+    "rating":"★",
+    "size":"XL",
+    "strikedoffprice": 1235,
+    "category":"Girls",
+    "brand":"RAW MANGO"
+  },
+  
+  {
+    "id":9,
+    "image_url":" https://lmsin.net/cdn-cgi/image/h=1125,w=1125,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/max/1000011198972-White-WHITE-1000011198972-07042022_01-2100.jpg",
+    "name": "MAX Printed Straight Top with Dupatta",
+    "price": 1699,
+    "color":"Pink",
+    "rating":"★★★★★",
+    "size":"XL",
+    "strikedoffprice": 2599,
+    "category":"Girls",
+    "brand":"GLOBAL DESI"    
+  },
+  
+  {
+    "id":10,
+    "image_url":"https://lmsin.net/cdn-cgi/image/h=1125,w=1125,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/max/1000011456336-Red-RED-1000011456336-17062022_01-2100.jpg ",
+    "name": "MAX Embroidered Woven Straight Top",
+    "price": 599,
+    "color":"Black",
+    "rating":"★",
+    "size":"M",
+    "strikedoffprice": 2599,
+    "category":"Girls",
+    "brand":"MAANYAVAR"
+  },
+  
+  {
+    "id":11,
+    "image_url":"https://lmsin.net/cdn-cgi/image/h=1125,w=1125,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/max/1000011456314-Orange-RUSTCORAL-1000011456314-17062022_01-2100.jpg ",
+    "name": "MAX Printed Round Neck A-Line Top",
+    "price": 899,
+    "color":"White",
+    "rating":"★★★",
+    "size":"S",
+    "strikedoffprice": 6599,
+    "category":"Girls",
+    "brand":"GLOBAL DESI"
+  },
+
+  {
+    "id":12,
+    "image_url":"https://lmsin.net/cdn-cgi/image/h=1125,w=1125,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/max/1000011395948-Blue-NAVY-1000011395948-12062022_01-2100.jpg ",
+    "name": "MAX Printed Round Neck Straight Top",
+    "price": 949,
+    "color":"Blue",
+    "rating":"★★★★",
+    "size":"S",
+    "strikedoffprice": 1899,
+    "category":"Girls",
+    "brand":"W FOR Girls"
+  },
+  
+  {
+    "id":13,
+    "image_url":" https://lmsin.net/cdn-cgi/image/h=1125,w=1125,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/max/1000011456325-Blue-AQUA-1000011456325-17062022_01-2100.jpg",
+    "name": "Girls'S REEBOK PRINT LEGGINGS ",
+    "price": 649,
+    "color":"Pink",
+    "rating":"★★",
+    "size":"XL",
+    "strikedoffprice": 1799,
+    "category":"Girls",
+    "brand":"W FOR Girls"
+  },
+  
+  {
+    "id":14,
+    "image_url":" https://lmsin.net/cdn-cgi/image/h=1125,w=1125,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/max/1000010480806-Multicolour-M-1000010480806-8272021_01-2100.jpg",
+    "name": "MAX Embroidered Straight Top",
+    "price": 1549,
+    "color":"Black",
+    "rating":"★★★",
+    "size":"M",
+    "strikedoffprice": 1799,
+    "category":"Girls",
+    "brand":"AMPM"
+  },
+
+  {
+    "id":15,
+    "image_url":"https://lmsin.net/cdn-cgi/image/h=1125,w=1125,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/max/1000010480817-Multicolour-M-1000010480817-8272021_01-2100.jpg ",
+    "name": "MAX Textured Straight Top fully Textured ",
+    "price": 1249,
+    "color":"Blue",
+    "rating":"★",
+    "size":"L",
+    "strikedoffprice": 1749,
+    "category":"Girls",
+    "brand":"MAANYAVAR"
+  },
+
+  {
+    "id":16,
+    "image_url":" https://lmsin.net/cdn-cgi/image/h=1125,w=1125,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/max/1000011273514-Multicolour-M-1000011273514-18042022_01-2100.jpg",
+    "name": "MAX Textured Black Straight Top",
+    "price": 699,
+    "color":"Pink",
+    "rating":"★★★★",
+    "size":"XL",
+    "strikedoffprice": 1245,
+    "category":"Girls",
+    "brand":"AMPM"
+  },
+  
+  {
+    "id":17,
+    "image_url":
+      "https://lmsin.net/cdn-cgi/image/h=831,w=615,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/max/1000010766241-Pink-Peach-1000010766241-11112021_01-2100.jpg",
+    "name": "MAX Printed 2-Pc Layered Asymmetric Top",
+    "price": 599,
+    "color":"Red",
+    "rating":"★★★★★",
+    "size":"L",
+    "strikedoffprice": 1299,
+    "category":"Girls",
+    "brand":"GLOBAL DESI"
+  },
+  
+  {
+    "id":18,
+    "image_url":
+      "https://lmsin.net/cdn-cgi/image/h=831,w=615,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/max/1000010766661-Blue-Blue-1000010766661-11112021_01-2100.jpg",
+    "name": "MAX Embroidered Blue Straight Top",
+    "price": 599,
+    "color":"Black",
+    "rating":"★★★",
+    "size":"M",
+    "strikedoffprice": 1299,
+    "category":"Girls",
+    "brand":"GLOBAL DESI"
+  },
+  
+  {
+    "id":19,
+    "image_url":
+      "https://lmsin.net/cdn-cgi/image/h=831,w=615,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/max/1000010834611-Black-BLACK-1000010834611-15122021_01-2100.jpg",
+    "name": "MAX Checked Band Collar Straight Top",
+    "price": 1399,
+    "color":"White",
+    "rating":"★★★★★",
+    "size":"S",
+    "strikedoffprice": 799 ,
+    "category":"Girls",
+    "brand":"RAW MANGO" 
+  },
+  
+  {
+    "id":20,
+    "image_url":
+      "https://lmsin.net/cdn-cgi/image/h=831,w=615,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/max/1000010766541-Pink-LIGHTPINK-1000010766541-15122021_01-2100.jpg",
+    "name": "MAX Printed Band Collar Straight Top",
+    "price": 1099,
+    "color":"Green",
+    "rating":"★★",
+    "size":"XL",
+    "strikedoffprice": 1249,
+    "category":"Girls",
+    "brand":"AMPM"    
+  },
+  
+  {
+    "id":21,
+    "image_url":
+      "https://lmsin.net/cdn-cgi/image/h=831,w=615,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/max/1000010834788-Green-Emerald-1000010834788-11182021_01-2100.jpg",
+    "name": "MAX Embroidered Straight Top",
+    "price": 699,
+    "color":"Black",
+    "rating":"★★★★",
+    "size":"M",
+    "strikedoffprice": 1489,
+    "category":"Girls",
+    "brand":"MAANYAVAR"
+  },
+  
+  {
+    "id":22,
+    "image_url":
+      "https://lmsin.net/cdn-cgi/image/h=831,w=615,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/max/1000010763351-Beige-Beige-1000010763351-11302021_01-2100.jpg",
+    "name": "MAX Printed Straight Top With Printed",
+    "price": 699,
+    "color":"Blue",
+    "rating":"★★★★★",
+    "size":"S",
+    "strikedoffprice": 1235,
+    "category":"Girls",
+    "brand":"MAANYAVAR"
+  },
+  
+  {
+    "id":23,
+    "image_url":
+      "https://lmsin.net/cdn-cgi/image/h=831,w=615,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/max/1000010785348-Grey-Grey-1000010785348-10132021_01-2100.jpg",
+    "name": "MAX Printed Straight Top with Dupatta",
+    "price": 1699,
+    "color":"White",
+    "rating":"★",
+    "size":"XXS",
+    "strikedoffprice": 2599,
+    "category":"Girls",
+    "brand":"RAW MANGO"    
+  },
+  
+  {
+    "id":24,
+    "image_url":
+      "https://lmsin.net/cdn-cgi/image/h=831,w=615,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/max/1000010834655-Yellow-MUSTARD-1000010834655-15122021_01-2100.jpg",
+    "name": "MAX Embroidered Woven Straight Top",
+    "price": 599,
+    "color":"Green",
+    "rating":"★",
+    "size":"XL",
+    "strikedoffprice": 2599,
+    "category":"Girls",
+    "brand":"GLOBAL DESI"
+  },
+  
+  {
+    "id":25,
+    "image_url":" https://lmsin.net/cdn-cgi/image/h=1125,w=1125,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/max/1000010637430-Multicolour-M-1000010637430-8272021_01-2100.jpg",
+    "name": "MAX Printed Round Neck A-Line Top",
+    "price": 899,
+    "color":"Black",
+    "rating":"★★",
+    "size":"M",
+    "strikedoffprice": 6599,
+    "category":"Girls",
+    "brand":"AMPM"
+  },
+
+  {
+    "id":26,
+    "image_url":
+      "https://lmsin.net/cdn-cgi/image/h=831,w=615,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/max/1000010397448-Black-Black-1000010397448-10132021_01-2100.jpg",
+    "name": "MAX Printed Round Neck Straight Top",
+    "price": 949,
+    "color":"Red",
+    "rating":"★★★★",
+    "size":"S",
+    "strikedoffprice": 1899,
+    "category":"Girls",
+    "brand":"RAW MANGO"
+  }
+]

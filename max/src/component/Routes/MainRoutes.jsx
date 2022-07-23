@@ -9,6 +9,8 @@ import { Home } from "../Pages/Home/Home";
 import {Box} from '@chakra-ui/react';
 import Men from "../Pages/Products/Men";
 import Women from "../Pages/Products/Women";
+import Boys from "../Pages/Products/Boys";
+import Girls from "../Pages/Products/Girls";
 
 
 const MainRoutes = () => {
@@ -20,6 +22,9 @@ const MainRoutes = () => {
         <Route path="/about" element={<About />} />
         <Route path="/men" element={<Men />} />
         <Route path="/women" element={<Women />} />
+        <Route path="/boys" element={<Boys />} />
+        <Route path="/girls" element={<Girls/>} />
+
      {/*    <Route path="/basket" element={<Basket />} />
         <Route path="/checkout" element={<Checkout />} /> */}
       </Routes>
