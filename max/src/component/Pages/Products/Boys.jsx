@@ -3,11 +3,11 @@ import React, { useEffect, useState } from "react";
 import { Body, Banner } from "../Home/homeStyle";
 import axios from "axios";
 
-const Men = () => {
+const Boys = () => {
   const [data, setData] = useState([]);
   const getProductData = () => {
     axios
-      .get(" https://balram088.github.io/json-api-max/men.json")
+      .get("https://balram088.github.io/json-api-max/pdb.json")
       .then((data) => setData(data.data))
       .catch((error) => console.log(error));
   };
@@ -66,4 +66,4 @@ const Men = () => {
   );
 };
 
-export default Men;
+export default Boys;
