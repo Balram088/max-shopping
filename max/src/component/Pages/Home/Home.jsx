@@ -4,6 +4,7 @@ import {Body,Banner} from './homeStyle';
 import ImageSlider from "./Slider/ImageSlider";
 import { SlideData } from "./SlideData";
 import { flexData } from "./HomeData";
+import { Link } from "react-router-dom";
 
 
 export const Home = () => {
@@ -44,7 +45,7 @@ export const Home = () => {
               </Center>
               <hr />
               <Center h="100%" w="100%">
-                <img src={e.img} alt="" />
+              <Link to="/boys"><img src={e.img} alt="" /></Link>
               </Center>
             </Box>
           ))}
