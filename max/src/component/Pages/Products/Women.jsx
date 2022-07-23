@@ -2,12 +2,11 @@ import { Box, Button, Grid, Text } from "@chakra-ui/react";
 import React, { useEffect, useState } from "react";
 import { Body, Banner } from "../Home/homeStyle";
 import axios from "axios";
-
 const Women = () => {
   const [data, setData] = useState([]);
   const getProductData = () => {
     axios
-      .get("http://localhost:3000/dresses")
+      .get('https://balram088.github.io/json-api-max/Women.json')
       .then((data) => setData(data.data))
       .catch((error) => console.log(error));
   };
