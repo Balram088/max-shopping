@@ -42,7 +42,7 @@ const SingalProduct= () => {
          <Box boxShadow="dark-lg" p="4" rounded="md" bg="white" h="700px" w="600px" ml="23%">
               <img src="https://lmsin.net/cdn-cgi/image/h=1125,w=1125,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/max/1000010667100-Multicolour-M-1000010667100-8272021_02-2100.jpg" alt="" />
               <Text fontWeight="500" align="left" fontSize="20px" m="2px">
-                <span>₹</span>445
+                <span>₹</span>599
               </Text>
               <Text fontWeight="700" fontFamily="ProximaNova-Regular">
               HERON PRESTON
@@ -51,7 +51,7 @@ const SingalProduct= () => {
               MEN'S HERON PRESTON T-SHIRT
               </Text>
               <Text  fontFamily="ProximaNova-Regular">
-              ★★★★
+              ★★★★{data.rating}
               </Text>
               </Box> 
         <div > <Link to="/">Go Back</Link>  </div>
