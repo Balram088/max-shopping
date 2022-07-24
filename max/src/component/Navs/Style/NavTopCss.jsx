@@ -5,14 +5,15 @@ export const Wrapper = styled.div`
 display: flex;
 width:100%;
 gap:100px;
-font-weight:500;
-font-size:14px;
-padding:5px;
+font-weight:700;
+font-size:15px;
+padding:4px;
 color:white;
 margin:auto;
 position: fixed;
 z-index: 12;
 background-color:black;
+margin-bottom:6px;
 
 
 a{

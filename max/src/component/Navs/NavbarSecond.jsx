@@ -4,11 +4,11 @@ import SearchOutlinedIcon from '@mui/icons-material/SearchOutlined';
 import LocalMallRoundedIcon from '@mui/icons-material/LocalMallRounded';
 import { Wrap } from './Style/NavSecondCss';
 
-const navData=[
-  {
+// const navData=[
+//   {
     
-  }
-]
+//   }
+// ]
 
 export const NavbarSecond = () => {
   // const { token } = useContext(AuthContext);
