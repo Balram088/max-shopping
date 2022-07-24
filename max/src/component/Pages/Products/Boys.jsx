@@ -58,7 +58,7 @@ const Boys = () => {
                 {e.rating}
               </Text>
               <Button colorScheme="red" w="100%">
-                Add To Basket
+                <Link to="/basket">Add To Basket</Link>
               </Button>
             </Box>
           ))}
