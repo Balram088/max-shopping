@@ -18,6 +18,9 @@ const SingalProduct= () => {
     })
  },[]);
 // console.log("fgasfafa",data);
+// <Route path="boys/:id" element={<SingalProduct/> }/>   
+// <Link to={`/boys/${e.id}`}><img src={e.image_url} alt="" /></Link>
+
   return (
     <div>
         <Body>
