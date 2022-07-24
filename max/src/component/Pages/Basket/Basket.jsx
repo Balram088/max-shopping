@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { Banner} from "../Home/homeStyle";
 import "./Basketcss.jsx";
+import { BasketWrapper } from "./Basketcss.jsx";
 
 const Basket = () => {
   var cart = JSON.parse(localStorage.getItem("cartItem")) || [];
@@ -27,6 +28,7 @@ const Basket = () => {
               ₹499.
             </p>
           </Banner>
+          <BasketWrapper>
       <div className="basketMainHead">
         <p className="basketHeading">Your Shopping Basket</p>
         <hr />
@@ -117,7 +119,7 @@ const Basket = () => {
           <div className="basketDiv5"></div>
         </div>
       </div>
-     
+      </BasketWrapper>
     </>
   );
 };
