@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import SearchOutlinedIcon from '@mui/icons-material/SearchOutlined';
 import LocalMallRoundedIcon from '@mui/icons-material/LocalMallRounded';
 import { Wrap } from './Style/NavSecondCss';
+import Login from '../Pages/LoginSignUp/Login';
 
 // const navData=[
 //   {
@@ -151,8 +152,9 @@ export const NavbarSecond = () => {
             <div><label ><SearchOutlinedIcon/></label><input type="text" placeholder='What are you looking for?'/></div>
 
  
-            <li><Link to="/signup">Sign Up</Link>  </li>
-            <li><Link to="/signin">Sign In</Link></li>
+            <li><Link class="desktop-item" to="/"><Login /></Link></li>
+            {/* <Link class="desktop-item" to="/"><Login />  </Link>*/}
+                
             <li><Link to="/basket">|  Basket <LocalMallRoundedIcon/> </Link></li>
       </ul>
       <label for="menu-btn" class="btn menu-btn"><i class="fas fa-bars"></i></label>
