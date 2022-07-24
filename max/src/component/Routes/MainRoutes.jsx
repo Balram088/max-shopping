@@ -12,6 +12,7 @@ import Women from "../Pages/Products/Women";
 import Boys from "../Pages/Products/Boys";
 import Girls from "../Pages/Products/Girls";
 import SingalProduct from "../Pages/Products/SingalProduct";
+import Basket from "../Pages/Basket/Basket";
 
 
 const MainRoutes = () => {
@@ -26,10 +27,13 @@ const MainRoutes = () => {
         <Route path="/boys" element={<Boys />} />
         <Route path="/girls" element={<Girls/>} />
         <Route path="boys/:id" element={<SingalProduct/> }/>
+        <Route path="/basket" element={<Basket />} />
+
 
      {/*    <Route path="/basket" element={<Basket />} />
         <Route path="/checkout" element={<Checkout />} /> */}
       </Routes>
+      
       {/* <Footer /> */}
     </div>
   );
