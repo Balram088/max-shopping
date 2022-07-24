@@ -149,10 +149,17 @@ gap:90px;
     border:2px solid whitesmoke;
     height: 50px;
 }
+.qtyinput{
+    width:30px;
+    padding:6px;
+    border:1px solid gray;
+    margin:0px 5px 0px 5px
+}
 
 /* cart data */
 .images{
-    height: 100px;
+    height: 200px;
+    width:150px;
 }
 .map_div{
     display: flex;
