@@ -1,4 +1,4 @@
-import style from "@emotion/styled/types/base";
+import style from "styled-components";
 export const BasketWrapper = style.div`
 *{
     font-family: ProximaNova-Regular,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
